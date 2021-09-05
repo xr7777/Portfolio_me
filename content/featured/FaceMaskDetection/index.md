@@ -1,17 +1,18 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
-cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+title: 'Blogging Website'
+cover: 'demo.png'
+github: 'https://github.com/Roopshree6902/Blog_Website'
+external: 'https://roopshree6902.github.io/Blog_Website/'
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
-  - Python
+  - Html 
+  - Css
+  - Ejs
+  - Node
+  - MongoDB
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+Blogging-Website on which user can create their own blogs & it will be saved in the database, so that when the user will come again he/she will be able to see & read the previous blogs. 
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+

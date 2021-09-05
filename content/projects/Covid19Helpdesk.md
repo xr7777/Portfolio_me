@@ -1,16 +1,16 @@
 ---
-date: '2020-04-13'
-title: 'Covid-19 Helpdesk'
-github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+date: '2021-06-21'
+title: 'Secrets Website'
+github: 'https://github.com/Roopshree6902/Secrets_Website'
+external: 'https://roopshree6902.github.io/Secrets_Website/'
 tech:
-  - PHP
-  - Javascript
-  - TSQL
-  - HTML
-  - CSS
+  - Html
+  - Css
+  - Node
+  - Express
+  - MongoDB
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.
+A simple website for adding secrets anonymously. Dedicated to #webdevelopmentbootcamp journey.

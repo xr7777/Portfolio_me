@@ -1,12 +1,12 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
+name: 'Roopshree Udaiwal'
 subtitle: 'I love exploring new things!'
 buttonText: 'Hire Me!'
 ---
 
-I'm an India based developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a Mern Stack developer with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as a Software Engineering Associate at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer at [Pepper Content](https://www.peppercontent.io).
+Currently working as Campus Mantri at [GFG](https://www.geeksforgeeks.org/) and as a coordinator at [GDSC LPU](https://gdsc.community.dev/lovely-professional-university-jalandhar/).
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/) or create amateur #PureCSS [Codepen](https://codepen.io/chandrikadeb7). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Outside work, I occasionally create amateur React-apps [Codesendbox](https://codesandbox.io/u/parmarroopshreeudaywal).

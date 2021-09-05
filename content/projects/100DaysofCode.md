@@ -1,16 +1,18 @@
 ---
-date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
-external: ''
+date: '2021-07-26'
+title: 'Whatsapp Clone'
+github: 'https://github.com/Roopshree6902/Whatsapp_Clone'
+external: 'https://github.com/Roopshree6902/Whatsapp_Clone'
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
+  - ReactJS
   - CSS
-  - Python
+  - Node 
+  - Express
+  - MongoDB
+
+
 company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+This clone i made for learning system designing at whatsapp backend . for real time messaging i used pusher.

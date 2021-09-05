@@ -1,15 +1,15 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
-external: ''
+title: 'Keeper Clone'
+github: 'https://github.com/Roopshree6902/Keeper-App'
+external: 'https://roopshree6902.github.io/Keeper-App/'
 tech:
-  - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - ReactJS
+  - Ejs
+  - html
+  - Css
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+A clone of Google Keeper to save the notes. Dedicated to #webdevelopmentbootcamp journey.

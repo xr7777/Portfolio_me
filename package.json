@@ -1,16 +1,16 @@
 {
-  "name": "v2",
+  "name": "Portfolio",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Roopshree <roopshree.udaiwal@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/Roopshree6902/chandrikadeb7.github.io"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

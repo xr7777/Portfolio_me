@@ -1,16 +1,14 @@
 ---
 date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+title: 'Banking System'
+cover: 'demo2.png'
+github: 'https://github.com/Roopshree6902/Banking_System'
+external: 'https://roopshree6902.github.io/Banking_System/'
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
-
+  - C++
+  - File Handling
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Created with C++ and has the basic functionalities of banking system like Opening Account, Balance Enquiry, Deposit, Withdrawal, Closing Account etc. 
+For storage purpose File-Handling is used.

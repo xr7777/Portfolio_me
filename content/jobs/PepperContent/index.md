@@ -1,9 +1,9 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+date: '2019-08-09'
+title: 'Contributor'
+company: 'Girlscript Winter Of Code'
+range: 'August 2021- present'
+url: 'https://www.linkedin.com/posts/roopshree-udaiwal-2831031b5_connections-opensource-contributor-activity-6830435577150758912-M4IZ'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
+- Selected as contributor for GWOC21.

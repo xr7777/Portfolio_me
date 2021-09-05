@@ -1,15 +1,13 @@
 ---
-date: '2019-05-31'
-title: 'My Online Store'
-github: 'https://github.com/chandrikadeb7/MyOnlineStore'
+date: '2021-03-15'
+title: 'Flutter Apps'
+github: 'https://github.com/Roopshree6902/flutter_apps'
 external: ''
 tech:
-  - PHP
-  - MySQL
-  - HTML
-  - CSS
-company: 'CCL'
+  - Dart
+
+company: ''
 showInProjects: true
 ---
 
-My first PHP project on dynamic eCommerce website development.
+Collection of all of my android/ios apps which i made during #flutterdevelopmentbootcamp.

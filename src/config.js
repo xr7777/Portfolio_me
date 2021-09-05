@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Roopshree Udaiwal',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Roopshree is a Web Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
+  siteUrl: 'https://Roopshree6902.github.io/Portfolio.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Roopshree Udaiwal',
+  location: 'Jodhpur, India',
+  email: 'roopshree.udaiwal@gmail.com',
+  github: 'https://github.com/Roopshree6902',
+  twitterHandle: '@Roopshr90263033',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/Roopshree6902',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      name: 'Codesandbox',
+      url: 'https://codesandbox.io/u/parmarroopshreeudaywal',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/roopshree_77/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/Roopshr90263033',
     },
   ],
 

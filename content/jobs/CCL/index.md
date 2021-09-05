@@ -1,11 +1,15 @@
 ---
-date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
-range: 'May - June 2019'
-url: 'http://www.centralcoalfields.in/ind/'
+date: '2021-01-1'
+title: 'Coordinator'
+company: 'Google Developer Student Clubs'
+range: 'January 2021 - Present'
+url: 'https://www.linkedin.com/company/gdsclpu/mycompany/'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
-- Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
+- Helping Students to enhance their knowledge of Google Technologies and platforms through hands-on workshops and events.
+
+- Promoting all the events and workshops of GDSC-LPU among peers at university. Responsible for gathering audience for
+the sessions and clearing all the queries.
+
+- Got 3rd position in the Hackathon "Solution Challenge 2021" for BOOK-DESK.
+

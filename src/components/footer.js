@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/Roopshree6902/Portfolio.me')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -102,12 +102,13 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/Roopshree6902/Portfolio.me"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Chandrika Deb
+            Made with 🤍 by Roopshree<br></br><br></br>
+            Star/Follow me on Github
+            
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

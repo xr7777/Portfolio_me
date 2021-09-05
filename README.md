@@ -1,24 +1,24 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/Roopshree6902/Portfolio.me/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio.me
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The Portfolio is <a href="" target="_blank">Roopshree6902.github.io</a> built with React, Gatsy and hosted with <a href="https://pages.github.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  <a href="https://github.com/Roopshree6902/Personal-Portfolio" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/Roopshree6902/Portfolio.me/src/images/demo.png" />
 </div>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio.me](https://Roopshree6902.github.io/Portfolio.me). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -72,3 +72,4 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+#

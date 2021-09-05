@@ -1,15 +1,13 @@
 ---
-date: '2020-05-05'
-title: 'JPMorgan Chase Virtual Internship'
-github: 'https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship'
-external: 'https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk'
+date: '2021-06-11'
+title: 'Portfolio Version 1'
+github: 'https://github.com/Roopshree6902/Personal-Portfolio'
+external: 'https://roopshree6902.github.io/Personal-Portfolio/'
 tech:
-  - Python
-  - Typescript
-  - HTML
+  - Hmtl
   - CSS
-  - Javascript
-showInProjects: false
+  - Bootstrap
+showInProjects: true
 ---
 
-Contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
