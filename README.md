@@ -1,24 +1,24 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Roopshree6902/Portfolio.me/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/Roopshree6902/Portfolio_me/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio.me
 </h1>
 <p align="center">
-  The Portfolio is <a href="" target="_blank">Roopshree6902.github.io</a> built with React, Gatsy and hosted with <a href="https://pages.github.com/" target="_blank">Netlify</a>
+  The Portfolio is <a href="https://roopshreeudaiwal.netlify.app/" target="_blank">Roopshree.me</a> built with React, Gatsy and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/Roopshree6902/Personal-Portfolio" target="_blank">Version 1</a>
+  <a href="https://roopshree6902.github.io/Personal-Portfolio/" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/Roopshree6902/Portfolio.me/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/Roopshree6902/Portfolio_me/src/images/demo.png" />
 </div>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio.me](https://Roopshree6902.github.io/Portfolio.me). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio_me](https://github.com/Roopshree6902/Portfolio_me). Thanks!
 
 ## 🛠 Installation & Set Up
 
