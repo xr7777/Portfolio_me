@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Just a random fella :)',
   siteKeywords:
-    'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
+    'XR7, XR7, Mern Stack Developer, web developer, javascript, cofeescript, jodhpur, GDSC, GFG',
   siteUrl: 'https://xr7777.github.io/Portfolio.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
