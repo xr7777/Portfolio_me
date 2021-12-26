@@ -1,10 +1,10 @@
 ---
 date: '2021-07-26'
 title: 'Whatsapp Clone'
-github: 'https://github.com/Roopshree6902/Whatsapp_Clone'
-external: 'https://github.com/Roopshree6902/Whatsapp_Clone'
+github: 'https://github.com/XR7-Samir/Gifty'
+external: 'https://github.com/XR7-Samir/Gifty'
 tech:
-  - ReactJS
+  - Javascript
   - CSS
   - Node 
   - Express
@@ -15,4 +15,4 @@ company: ''
 showInProjects: true
 ---
 
-This clone i made for learning system designing at whatsapp backend . for real time messaging i used pusher.
+A Discord chat bot for making giveways
