@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-A Discord bot for Searching Anime, manga etc.
+A Discord bot for Searching Anime, manga etc. :)
