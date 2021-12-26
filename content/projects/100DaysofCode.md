@@ -5,11 +5,7 @@ github: 'https://github.com/XR7-Samir/Gifty'
 external: 'https://discord.gg/P9gGZaXWGR'
 tech:
   - Javascript
-  - CSS
   - Node 
-  - Express
-  - MongoDB
-
 
 company: ''
 showInProjects: true
