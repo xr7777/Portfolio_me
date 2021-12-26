@@ -1,6 +1,6 @@
 ---
-date: '2021-07-26'
-title: 'Whatsapp Clone'
+date: '2021-07-21'
+title: 'Discord bot'
 github: 'https://github.com/XR7-Samir/Gifty'
 external: 'https://github.com/XR7-Samir/Gifty'
 tech:
@@ -15,4 +15,4 @@ company: ''
 showInProjects: true
 ---
 
-A Discord chat bot for making giveways
+A Discord chat bot for making giveways :)
