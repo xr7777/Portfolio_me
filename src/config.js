@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'XR7',
   siteDescription:
-    'Roopshree is a Web Developer, who loves learning new things and helping tech beginners.',
+    'Just a random fella :)',
   siteKeywords:
     'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
   siteUrl: 'https://xr7777.github.io/Portfolio.me',
