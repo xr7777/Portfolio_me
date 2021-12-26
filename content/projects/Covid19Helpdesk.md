@@ -1,14 +1,13 @@
 ---
 date: '2021-06-21'
 title: 'Secrets Website'
-github: 'https://github.com/Roopshree6902/Secrets_Website'
-external: 'https://roopshree6902.github.io/Secrets_Website/'
+github: 'https://github.com/XR7-Samir/Chat-bot'
+external: 'https://github.com/XR7-Samir/Chat-bot'
 tech:
   - Html
   - Css
   - Node
-  - Express
-  - MongoDB
+  - Javascript
 company: ''
 showInProjects: true
 ---
