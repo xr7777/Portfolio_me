@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-A clone of Google Keeper to save the notes. Dedicated to #webdevelopmentbootcamp journey.
+A chatbot with speech recognition feature/ability :)
