@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: 'Roopshree Udaiwal',
+  siteTitle: 'XR7',
   siteDescription:
     'Roopshree is a Web Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
-  siteUrl: 'https://Roopshree6902.github.io/Portfolio.me',
+  siteUrl: 'https://xr7777.github.io/Portfolio.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Roopshree Udaiwal',
-  location: 'Jodhpur, India',
-  email: 'roopshree.udaiwal@gmail.com',
-  github: 'https://github.com/Roopshree6902',
+  name: 'XR7',
+  location: 'Delhi,India',
+  email: 'samirawm7@gmail.com',
+  github: 'https://github.com/xr7-samir',
   twitterHandle: '@Roopshr90263033',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Roopshree6902',
+      url: 'https://github.com/xr7-samir',
     },
     {
       name: 'Linkedin',
@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/roopshree_77/',
+      url: 'https://www.instagram.com/lolwtf139/',
     },
     {
       name: 'Twitter',
