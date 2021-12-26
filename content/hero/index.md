@@ -1,8 +1,8 @@
 ---
 title: 'Hello World! My name is'
-name: 'Roopshree Udaiwal'
+name: 'XR7'
 subtitle: 'I love exploring new things!'
-buttonText: 'Hire Me!'
+buttonText: 'Contact Me'
 ---
 
 I'm a Mern Stack developer with a goal-driven creative mindset and passion for learning and innovating.
