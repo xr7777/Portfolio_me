@@ -1,13 +1,15 @@
 ---
 date: '2021-03-15'
-title: 'Flutter Apps'
-github: 'https://github.com/Roopshree6902/flutter_apps'
-external: ''
+title: 'XR UI'
+github: 'https://github.com/XR7-Samir/XR'
+external: 'https://github.com/XR7-Samir/XR'
 tech:
-  - Dart
+  - Javascript
+  - Html
+  - Css
 
 company: ''
 showInProjects: true
 ---
 
-Collection of all of my android/ios apps which i made during #flutterdevelopmentbootcamp.
+IOS UI, Made with Html,Css & Javascript :)
