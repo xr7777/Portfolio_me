@@ -1,6 +1,6 @@
 ---
-date: '2021-06-21'
-title: 'Secrets Website'
+date: '2020-11-10'
+title: 'Chat bot'
 github: 'https://github.com/XR7-Samir/Chat-bot'
 external: 'https://github.com/XR7-Samir/Chat-bot'
 tech:
@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-A simple website for adding secrets anonymously. Dedicated to #webdevelopmentbootcamp journey.
+An Ai Discord chatbot :)
