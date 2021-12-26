@@ -2,7 +2,7 @@
 date: '2021-07-21'
 title: 'Discord bot'
 github: 'https://github.com/XR7-Samir/Gifty'
-external: 'https://github.com/XR7-Samir/Gifty'
+external: 'https://discord.gg/P9gGZaXWGR'
 tech:
   - Javascript
   - CSS
