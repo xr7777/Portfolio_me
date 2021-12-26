@@ -1,8 +1,8 @@
 ---
 date: '2021-06-11'
-title: 'Portfolio Version 1'
-github: 'https://github.com/Roopshree6902/Personal-Portfolio'
-external: 'https://roopshree6902.github.io/Personal-Portfolio/'
+title: 'Anime Search'
+github: 'https://github.com/XR7-Samir/Secre-anime'
+external: 'https://discord.gg/P9gGZaXWGR'
 tech:
   - Javascript
   - Node.js
