@@ -1,11 +1,11 @@
 ---
 date: '2019-12-12'
-title: 'Keeper Clone'
-github: 'https://github.com/Roopshree6902/Keeper-App'
-external: 'https://roopshree6902.github.io/Keeper-App/'
+title: 'Voice chatbot'
+github: 'https://github.com/XR7-Samir/Speech.js-chatbot'
+external: 'https://vc-chatbot.glitch.me/'
 tech:
-  - ReactJS
-  - Ejs
+  - Javascript
+  - Node
   - html
   - Css
 company: ''
