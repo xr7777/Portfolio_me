@@ -20,11 +20,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/',
+      url: 'https://www.linkedin.com/in/',
     },
     {
       name: 'Codesandbox',
-      url: 'https://codesandbox.io/u/parmarroopshreeudaywal',
+      url: 'https://codesandbox.io/u/xr7',
     },
     {
       name: 'Instagram',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Roopshr90263033',
+      url: 'https://twitter.com/',
     },
   ],
 
