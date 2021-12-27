@@ -4,7 +4,7 @@ module.exports = {
     'Just a random fella :)',
   siteKeywords:
     'XR7, XR7, Mern Stack Developer, web developer, javascript, cofeescript, jodhpur, GDSC, GFG',
-  siteUrl: 'https://raw.githubusercontent.com/xr7777/Portfolio_me/code/src/images/og.png',
+  siteUrl: 'https://xr7.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
