@@ -4,7 +4,7 @@ module.exports = {
     'Just a random fella :)',
   siteKeywords:
     'XR7, XR7, Mern Stack Developer, web developer, javascript, cofeescript, jodhpur, GDSC, GFG',
-  siteUrl: 'https://xr7777.github.io/Portfolio.me',
+  siteUrl: 'https://cdn.discordapp.com/attachments/913760038361890867/924969246230974474/unknown.png',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
