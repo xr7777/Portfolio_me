@@ -107,8 +107,8 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
-            Resume
+          <ResumeLink href="https://xr7-bots.glitch.me/" target="_blank" rel="nofollow noopener noreferrer">
+            Bots
           </ResumeLink>
         </NavLinks>
       </Sidebar>
