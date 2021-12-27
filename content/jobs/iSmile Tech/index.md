@@ -1,10 +1,10 @@
 ---
 date: '2021-09-06'
-title: 'Sales Intern'
-company: 'Geeks for Geeks'
-range: 'September 2021 - Present'
+title: 'Bot Developer'
+company: 'Discord'
+range: 'September 2020 - Present'
 url: ''
 ---
 
-- Working as a Consultant to guide student community.
-- Helping hand for company's economical growth. 
+- Verified Discord bot
+- Making Discord bots and hunting Bugs
