@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'XR7',
   location: 'Delhi,India',
-  email: 'samirawm7@gmail.com',
+  email: 'Samirawm7@gmail.com',
   github: 'https://github.com/xr7-samir',
   twitterHandle: '@Roopshr90263033',
   socialMedia: [
