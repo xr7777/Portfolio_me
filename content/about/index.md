@@ -12,10 +12,10 @@ skills:
   - MongoBD || Heroku
 ---
 
-Hello! Interestingly, I have been a student of Maths in my high school and got introduced to programming in my freshman year at [Lovely Professional University](https://www.lpu.in/). My interest in web-development started back in 2020 during first year of B.tech . Since then, I started developing Web projects using HTML, CSS, Javascript / React.js / Node.js, MongoDB and some other cool libraries and frameworks. 
+Hello! I'm just a Student yet and I started developing Web projects using HTML, CSS, Javascript / React.js / Node.js, MongoDB and some other cool libraries and frameworks. 
 
-Today, I'm currently pursuing my Bachelors in Computer Science and Engineering (2020-2024) with [8.71 GPA aggregate](https://drive.google.com/file/d/1UoyObDi_uNiCjrvzOfDlwjaa7GkspXV6/view?usp=sharing).
+Today, I'm currently pursuing my Diploma in Computer Science and Engineering (2020-2023) & After that i'll persuse B.tech in computer science and engineering :)
 
-Also I've knowledge of Flutter App Development and created some projects on that also. I'm also part of some student organisations and Leading one of them. Most important I'm a [Competitive Programmer](https://leetcode.com/Roopshree/).
+Also I'm Currently working On new AI Chatbots [Discord](https://discord.gg/P9gGZaXWGR/).
 
-Here is a list of the technologies that I've worked with.
+Here is a list of the technologies that I've worked with & Still learning
