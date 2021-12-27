@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Speech.js Chatbot'
-cover: 'demo2.png'
+cover: 'demo1.png'
 github: 'https://github.com/XR7-Samir/Speech.js-chatbot'
 external: 'https://vc-chatbot.glitch.me/'
 tech:
