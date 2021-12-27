@@ -1,14 +1,15 @@
 ---
 date: '2'
-title: 'Book Desk'
+title: 'Web project'
 cover: 'book.png'
-github: 'https://github.com/Roopshree6902/my-_flutterBook_desk'
-external: 'https://www.youtube.com/watch?v=e_8BKYRlk6Q'
+github: 'https://github.com/XR7-Samir/Website'
+external: 'https://xr7-bots.glitch.me/'
 tech:
-  - Dart
-  - Firebase
-  
+  - Html
+  - Css
+  - Javascript
+  - Php  
 showInProjects: true
 ---
+Just a cool Website for my discord bots :), Made with Css,Html,Php & Js
 
-An android && ios application which suggests the best study material to the students reviewed by senior students and professors. Here any one can sell/buy/donate the old study material along with sharing the soft-copies. 
