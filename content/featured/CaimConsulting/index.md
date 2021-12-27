@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Banking System'
+title: 'Speech.js Chatbot'
 cover: 'demo2.png'
-github: 'https://github.com/Roopshree6902/Banking_System'
-external: 'https://roopshree6902.github.io/Banking_System/'
+github: 'https://github.com/XR7-Samir/Speech.js-chatbot'
+external: 'https://vc-chatbot.glitch.me/'
 tech:
   - C++
   - File Handling
