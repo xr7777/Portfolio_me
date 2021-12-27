@@ -102,7 +102,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/Roopshree6902/Portfolio.me"
+          href="https://github.com/XR7-Samir?tab=repositories"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
