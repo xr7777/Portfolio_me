@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/Roopshree6902/Portfolio.me')
+    fetch('https://github.com/XR7-Samir?tab=repositories')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -106,7 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Made with 🤍 by Roopshree<br></br><br></br>
+            Made with 🤍 by XR7<br></br><br></br>
             Star/Follow me on Github
             
           </div>
