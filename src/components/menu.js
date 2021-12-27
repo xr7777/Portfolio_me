@@ -73,7 +73,7 @@ const NavLink = styled(Link)`
   padding: 3px 20px 20px;
   width: 100%;
 `;
-const ResumeLink = styled.a`
+const XR7Link = styled.a`
   ${mixins.bigButton};
   padding: 18px 50px;
   margin: 10% auto 0;
@@ -107,9 +107,9 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="https://xr7-bots.glitch.me/" target="_blank" rel="nofollow noopener noreferrer">
-            Bots
-          </ResumeLink>
+          <XR7Link href="https://xr7-bots.glitch.me/" target="_blank" rel="nofollow noopener noreferrer">
+            XR7
+          </BotsLink>
         </NavLinks>
       </Sidebar>
     </StyledContainer>
