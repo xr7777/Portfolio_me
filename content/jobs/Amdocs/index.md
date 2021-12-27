@@ -8,5 +8,5 @@ url: 'https://xr7-bots.glitch.me/'
 
 - Making Discord bots
 - AI Chatbots
-- -Web based Projects
+- Web based Projects
 
