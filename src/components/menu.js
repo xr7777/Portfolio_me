@@ -109,7 +109,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
           </NavList>
           <XR7Link href="https://xr7-bots.glitch.me/" target="_blank" rel="nofollow noopener noreferrer">
             XR7
-          </BotsLink>
+          </XR7Link>
         </NavLinks>
       </Sidebar>
     </StyledContainer>
