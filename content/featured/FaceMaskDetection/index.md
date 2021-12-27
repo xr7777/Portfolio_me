@@ -1,18 +1,16 @@
 ---
 date: '3'
-title: 'Blogging Website'
+title: 'Anime search'
 cover: 'demo.png'
-github: 'https://github.com/Roopshree6902/Blog_Website'
-external: 'https://roopshree6902.github.io/Blog_Website/'
+github: 'https://github.com/XR7-Samir/Secre-anime'
+external: 'https://discord.gg/P9gGZaXWGR'
 tech:
   - Html 
   - Css
-  - Ejs
+  - javascript
   - Node
-  - MongoDB
 showInProjects: true
 ---
 
-Blogging-Website on which user can create their own blogs & it will be saved in the database, so that when the user will come again he/she will be able to see & read the previous blogs. 
-
+A Discord bot for Searching Anime, manga etc gives output using Anilist API
 
