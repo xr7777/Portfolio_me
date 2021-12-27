@@ -153,7 +153,7 @@ const StyledListItem = styled.li`
 const StyledListLink = styled(Link)`
   padding: 12px 10px;
 `;
-const StyledResumeButton = styled.a`
+const StyledXR7Button = styled.a`
   ${mixins.smallButton};
   margin-left: 10px;
   font-size: ${fontSizes.smish};
@@ -293,12 +293,12 @@ class Nav extends Component {
               {isMounted && (
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
-                    <StyledResumeButton
+                    <StyledXR7Button
                       href="https://xr7-bots.glitch.me/"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
-                      Resume
-                    </StyledResumeButton>
+                      XR7
+                    </StyledXR7Button>
                   </div>
                 </CSSTransition>
               )}
